@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Welcome to My Software Testing Project
+# 👋 Welcome to Jeannie's Software Testing Project
 
 
 
