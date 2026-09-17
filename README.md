@@ -2,7 +2,7 @@
 
 ## 👋 Welcome to Jeannie's Software Testing Project
 
-```markdown
+
 ## Project Purpose
 
 This project demonstrates end-to-end quality engineering
@@ -54,7 +54,7 @@ accessibility testing, performance analysis, defect management,
 reporting, and CI/CD.
 
 [website]: https://learnwebdevtechnologies.wordpress.com/
-```
+
 
 
 
