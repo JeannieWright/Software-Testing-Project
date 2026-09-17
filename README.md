@@ -24,7 +24,9 @@ The project will document the complete problem-solving process, including:
 - Accomplishments and measurable outcomes
 - Lessons learned and opportunities for improvement
 
-The final repository will document the website's quality assessment and serve as a portfolio showcasing practical skills in software testing, test automation, API testing, scripting, test-framework development, accessibility testing, performance analysis, defect management, reporting, and CI/CD.
+The final repository will document the website's quality assessment and serve as a portfolio
+showcasing practical skills in software testing, test automation, API testing, scripting,
+test-framework development, accessibility testing, performance analysis, defect management, reporting, and CI/CD.
 ```
 
 
