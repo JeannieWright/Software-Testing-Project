@@ -5,11 +5,11 @@
 ```markdown
 ## Project Purpose
 
-This project demonstrates an end-to-end quality engineering
-engagement for the [Learn Web Dev Technologies][website] website.
+This project demonstrates end-to-end quality engineering
+best practices for the [Learn Web Dev Technologies][[website](https://learnwebdevtechnologies.wordpress.com/)] website.
 
-It applies the **Software Development Life Cycle (SDLC)** and
-**Software Testing Life Cycle (STLC)** to identify quality risks,
+It applies the *Software Development Life Cycle (SDLC)* and
+*Software Testing Life Cycle (STLC)* to identify quality risks,
 investigate user-facing problems, recommend actionable solutions,
 and establish a sustainable testing process.
 
