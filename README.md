@@ -1,4 +1,3 @@
-## Hi there 👋
 
 ## 👋 Welcome to Jeannie's Software Quality Engineering & Verification Project
 
